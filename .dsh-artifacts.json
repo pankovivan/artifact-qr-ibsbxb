@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "artifacts": {
+    "qr-ibsbxb": {
+      "id": "qr-ibsbxb",
+      "title": "QR-коды для демо оплаты",
+      "kind": "html",
+      "createdAt": "2026-11-26T03:53:40.878Z",
+      "updatedAt": "2026-11-26T03:53:40.878Z",
+      "rev": 1,
+      "files": [
+        "index.html",
+        "pay-1290-zhkh.png",
+        "pay-3490-market.png",
+        "pay-450-kofeinya.png"
+      ],
+      "description": "Три платёжных QR-кода для проверки сканера в демо: кофейня 450 ₽, ЖКУ 1 290 ₽, магазин 3 490 ₽"
+    }
+  },
+  "tombstones": []
+}
